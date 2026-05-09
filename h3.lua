@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/poallini/BloxFruitsTP/refs/heads/main/h2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poallini/BloxFruitsTP/refs/heads/main/motorolaloader.lua"))()
